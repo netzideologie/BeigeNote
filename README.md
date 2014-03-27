@@ -11,6 +11,7 @@ Syncing will be implemented through Dropbox or some other backend.
 
   * Markdown support
   * Dropbox sync
+  * Responsive Design
   * ...
 
 
